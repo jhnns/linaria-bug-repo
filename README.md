@@ -23,5 +23,6 @@ SyntaxError: /Users/jhnns/dev/jhnns/linaria-bug-repo/src/main.js: /Users/jhnns/d
 
 ## Steps to reproduce
 
+- Using Node v16.13.1 (but I don't think the Node version is the problem)
 - `npm i`
 - `npm run build`
