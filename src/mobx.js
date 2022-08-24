@@ -1,6 +1,6 @@
 var _;
 
-var a = () => void _;
+var a = void _;
 
 function b(b) {
   void _;
