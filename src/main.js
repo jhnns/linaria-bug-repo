@@ -1,4 +1,4 @@
 import { css } from "@linaria/core";
-import { b } from "./mobx.js";
+import {_allowStateChanges} from "./mobx.js";
 
 css``;
